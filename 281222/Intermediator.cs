@@ -112,6 +112,8 @@ namespace _281222
             Console.WriteLine("Client triggets operation A.");
             component1.DoA();
 
+
+
             Console.WriteLine();
 
             Console.WriteLine("Client triggers operation D.");
