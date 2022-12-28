@@ -109,6 +109,7 @@ namespace _281222
             Component2 component2 = new Component2();
             new ConcreteMediator(component1, component2);
             ///complicata treaba
+            /////si mai complicata treaba
             Console.WriteLine("Client triggets operation A.");
             component1.DoA();
             
