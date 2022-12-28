@@ -110,6 +110,8 @@ namespace _281222
             new ConcreteMediator(component1, component2);
             ///complicata treaba
             /////si mai complicata treaba
+            ///
+            //facem modificari doar pe branch
             Console.WriteLine("Client triggets operation A.");
             component1.DoA();
             
