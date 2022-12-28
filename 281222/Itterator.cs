@@ -31,6 +31,7 @@ namespace _281222
         public abstract IEnumerator GetEnumerator();
     }
 
+
     // Concrete Iterators implement various traversal algorithms. These classes
     // store the current traversal position at all times.
     class AlphabeticalOrderIterator : Iterator
